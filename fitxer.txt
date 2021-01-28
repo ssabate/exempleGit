@@ -1,2 +1,4 @@
 Hola bon dia
 Avui és dijous
+Afegixo més línies des de l'editor del github
+Per confirmar els canvis hauré de fer un nou commit...
